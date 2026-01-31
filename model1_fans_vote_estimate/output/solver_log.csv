@@ -1,0 +1,35 @@
+season,rule_type,success,message,objective,n_vars
+1,S1-2_rank,True,Optimization terminated successfully,-7.6062712609798355,26
+2,S1-2_rank,True,Optimization terminated successfully,-14.035395509479095,52
+3,S3-27_percent,True,Optimization terminated successfully,-16.578822731959132,64
+4,S3-27_percent,True,Optimization terminated successfully,-18.850748428993032,74
+5,S3-27_percent,True,Optimization terminated successfully,-18.93379883416011,75
+6,S3-27_percent,True,Optimization terminated successfully,-19.01314142975451,76
+7,S3-27_percent,True,Optimization terminated successfully,-18.885517537231003,75
+8,S3-27_percent,True,Optimization terminated successfully,-21.73929469541798,91
+9,S3-27_percent,True,Optimization terminated successfully,-20.45754260173282,92
+10,S3-27_percent,True,Optimization terminated successfully,-18.84944940781026,74
+11,S3-27_percent,True,Optimization terminated successfully,-18.929851420074684,75
+12,S3-27_percent,True,Optimization terminated successfully,-18.85486645992362,74
+13,S3-27_percent,True,Optimization terminated successfully,-18.934911195077866,75
+14,S3-27_percent,True,Optimization terminated successfully,-19.7393044826156,82
+15,S3-27_percent,True,Optimization terminated successfully,-19.866781889267486,83
+16,S3-27_percent,True,Optimization terminated successfully,-20.470805490873676,84
+17,S3-27_percent,True,Optimization terminated successfully,-22.549451974719563,92
+18,S3-27_percent,True,Optimization terminated successfully,-20.061587400496567,80
+19,S3-27_percent,True,Optimization terminated successfully,-22.740527588227174,94
+20,S3-27_percent,True,Optimization terminated successfully,-19.728664585367437,82
+21,S3-27_percent,True,Optimization terminated successfully,-22.408076370085663,93
+22,S3-27_percent,True,Optimization terminated successfully,-20.13347323659343,85
+23,S3-27_percent,True,Optimization terminated successfully,-22.991935088770543,97
+24,S3-27_percent,True,Optimization terminated successfully,-19.57760775445561,81
+25,S3-27_percent,True,Optimization terminated successfully,-21.036660828586086,90
+26,S3-27_percent,True,Optimization terminated successfully,-6.66692361503781,27
+27,S3-27_percent,True,Optimization terminated successfully,-19.070190551983437,82
+28,S28+_bottom2,False,More than 3*n iterations in LSQ subproblem,-21.945019981552626,92
+29,S28+_bottom2,True,Optimization terminated successfully,-24.675919481061605,115
+30,S28+_bottom2,False,More than 3*n iterations in LSQ subproblem,25.877479416566317,105
+31,S28+_bottom2,True,Optimization terminated successfully,-22.209533053476996,107
+32,S28+_bottom2,True,Optimization terminated successfully,-23.196420322951848,100
+33,S28+_bottom2,True,Optimization terminated successfully,-18.40246409325916,77
+34,S28+_bottom2,True,Optimization terminated successfully,-23.98490700040318,106

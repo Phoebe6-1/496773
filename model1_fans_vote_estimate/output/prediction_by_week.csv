@@ -1,0 +1,336 @@
+season,week,rule_type,true_eliminated,pred_eliminated,correct,n_contestants
+1,1,S1-2_rank,,Trista Sutter,,6
+1,2,S1-2_rank,Trista Sutter,Trista Sutter,1.0,6
+1,3,S1-2_rank,Evander Holyfield,Evander Holyfield,1.0,5
+1,4,S1-2_rank,Rachel Hunter,Rachel Hunter,1.0,4
+1,5,S1-2_rank,Joey McIntyre,Joey McIntyre,1.0,3
+1,6,S1-2_rank,,Kelly Monaco,,2
+2,1,S1-2_rank,Kenny Mayne,Kenny Mayne,1.0,10
+2,2,S1-2_rank,Tatum O'Neal,Tatum O'Neal,1.0,9
+2,3,S1-2_rank,Giselle Fernandez,Giselle Fernandez,1.0,8
+2,4,S1-2_rank,Master P,George Hamilton,0.0,7
+2,5,S1-2_rank,Tia Carrere,Tia Carrere,1.0,6
+2,6,S1-2_rank,George Hamilton,George Hamilton,1.0,5
+2,7,S1-2_rank,Lisa Rinna,Lisa Rinna,1.0,4
+2,8,S1-2_rank,,Jerry Rice,,3
+3,1,S3-27_percent,Tucker Carlson,Tucker Carlson,1.0,11
+3,2,S3-27_percent,Shanna Moakler,Shanna Moakler,1.0,10
+3,3,S3-27_percent,Harry Hamlin,Harry Hamlin,1.0,9
+3,4,S3-27_percent,Vivica A. Fox,Vivica A. Fox,1.0,8
+3,5,S3-27_percent,Willa Ford;Sara Evans,Sara Evans,1.0,7
+3,6,S3-27_percent,,Jerry Springer,,5
+3,7,S3-27_percent,Jerry Springer,Jerry Springer,1.0,5
+3,8,S3-27_percent,Monique Coleman,Monique Coleman,1.0,4
+3,9,S3-27_percent,Joey Lawrence,Joey Lawrence,1.0,3
+3,10,S3-27_percent,,Emmitt Smith,,2
+4,1,S3-27_percent,,Billy Ray Cyrus,,11
+4,2,S3-27_percent,Paulina Porizkova,Paulina Porizkova,1.0,11
+4,3,S3-27_percent,Shandi Finnessey,Shandi Finnessey,1.0,10
+4,4,S3-27_percent,Leeza Gibbons,Leeza Gibbons,1.0,9
+4,5,S3-27_percent,Clyde Drexler,Clyde Drexler,1.0,8
+4,6,S3-27_percent,Heather Mills,Heather Mills,1.0,7
+4,7,S3-27_percent,John Ratzenberger,Billy Ray Cyrus,0.0,6
+4,8,S3-27_percent,Billy Ray Cyrus,Billy Ray Cyrus,1.0,5
+4,9,S3-27_percent,Ian Ziering,Ian Ziering,1.0,4
+4,10,S3-27_percent,,Laila Ali,,3
+5,1,S3-27_percent,Josie Maran,Josie Maran,1.0,12
+5,2,S3-27_percent,Albert Reed,Albert Reed,1.0,11
+5,3,S3-27_percent,Wayne Newton,Wayne Newton,1.0,10
+5,4,S3-27_percent,Floyd Mayweather Jr. ,Floyd Mayweather Jr. ,1.0,9
+5,5,S3-27_percent,Mark Cuban,Mark Cuban,1.0,8
+5,6,S3-27_percent,Sabrina Bryan,Jane Seymour,0.0,7
+5,7,S3-27_percent,Jane Seymour,Jane Seymour,1.0,6
+5,8,S3-27_percent,Cameron Mathison,Cameron Mathison,1.0,5
+5,9,S3-27_percent,Jennie Garth,Jennie Garth,1.0,4
+5,10,S3-27_percent,,Marie Osmond,,3
+6,1,S3-27_percent,,Monica Seles,,12
+6,2,S3-27_percent,Penn Jillette;Monica Seles,Monica Seles,1.0,12
+6,3,S3-27_percent,Steve Guttenberg,Steve Guttenberg,1.0,10
+6,4,S3-27_percent,Adam Carolla,Adam Carolla,1.0,9
+6,5,S3-27_percent,Priscilla Presley,Priscilla Presley,1.0,8
+6,6,S3-27_percent,Marlee Matlin,Marlee Matlin,1.0,7
+6,7,S3-27_percent,Shannon Elizabeth,Shannon Elizabeth,1.0,6
+6,8,S3-27_percent,Mario,Mario,1.0,5
+6,9,S3-27_percent,Marissa Jaret Winokur,Marissa Jaret Winokur,1.0,4
+6,10,S3-27_percent,,Cristian de la Fuente,,3
+7,1,S3-27_percent,Ted McGinley;Jeffrey Ross,Jeffrey Ross,1.0,13
+7,2,S3-27_percent,Misty May-Treanor;Kim Kardashian,Kim Kardashian,1.0,11
+7,3,S3-27_percent,,Cloris Leachman,,9
+7,4,S3-27_percent,Rocco DiSpirito,Rocco DiSpirito,1.0,9
+7,5,S3-27_percent,Toni Braxton,Toni Braxton,1.0,8
+7,6,S3-27_percent,Cloris Leachman,Cloris Leachman,1.0,7
+7,7,S3-27_percent,Susan Lucci,Susan Lucci,1.0,6
+7,8,S3-27_percent,Maurice Greene,Maurice Greene,1.0,5
+7,9,S3-27_percent,Cody Linley,Cody Linley,1.0,4
+7,10,S3-27_percent,,Lance Bass,,3
+8,1,S3-27_percent,,Steve Wozniak,,13
+8,2,S3-27_percent,Belinda Carlisle,Steve-O,0.0,13
+8,3,S3-27_percent,Denise Richards,Steve Wozniak,0.0,12
+8,4,S3-27_percent,Holly Madison;Steve Wozniak,Steve Wozniak,1.0,11
+8,5,S3-27_percent,David Alan Grier,David Alan Grier,1.0,9
+8,6,S3-27_percent,Steve-O,Steve-O,1.0,8
+8,7,S3-27_percent,Lawrence Taylor,Lawrence Taylor,1.0,7
+8,8,S3-27_percent,Chuck Wicks,Chuck Wicks,1.0,6
+8,9,S3-27_percent,Lil' Kim,Lil' Kim,1.0,5
+8,10,S3-27_percent,Ty Murray,Ty Murray,1.0,4
+8,11,S3-27_percent,,Melissa Rycroft,,3
+9,1,S3-27_percent,Ashley Hamiliton;Macy Gray,Macy Gray,1.0,16
+9,2,S3-27_percent,Kathy Ireland,Kathy Ireland,1.0,14
+9,3,S3-27_percent,Debi Mazar;Tom DeLay,Tom DeLay,1.0,13
+9,4,S3-27_percent,Chuck Liddell,Chuck Liddell,1.0,11
+9,5,S3-27_percent,Natalie Coughlin,Louie Vito,0.0,10
+9,6,S3-27_percent,Louie Vito;Melissa Joan Hart,Melissa Joan Hart,1.0,9
+9,7,S3-27_percent,Michael Irvin;Mark Dacascos,Mark Dacascos,1.0,7
+9,8,S3-27_percent,Aaron Carter,Aaron Carter,1.0,5
+9,9,S3-27_percent,Joanna Krupa,Joanna Krupa,1.0,4
+9,10,S3-27_percent,,Kelly Osbourne,,3
+10,1,S3-27_percent,,Shannen Doherty,,11
+10,2,S3-27_percent,Shannen Doherty,Shannen Doherty,1.0,11
+10,3,S3-27_percent,Buzz Aldrin,Buzz Aldrin,1.0,10
+10,4,S3-27_percent,Aiden Turner,Aiden Turner,1.0,9
+10,5,S3-27_percent,Kate Gosselin,Kate Gosselin,1.0,8
+10,6,S3-27_percent,Jake Pavelka,Jake Pavelka,1.0,7
+10,7,S3-27_percent,Pamela Anderson,Pamela Anderson,1.0,6
+10,8,S3-27_percent,Niecy Nash,Niecy Nash,1.0,5
+10,9,S3-27_percent,Chad Ochocinco,Chad Ochocinco,1.0,4
+10,10,S3-27_percent,,Evan Lysacek,,3
+11,1,S3-27_percent,David Hasselhoff,David Hasselhoff,1.0,12
+11,2,S3-27_percent,Michael Bolton,Michael Bolton,1.0,11
+11,3,S3-27_percent,Margaret Cho,Margaret Cho,1.0,10
+11,4,S3-27_percent,The Situation,The Situation,1.0,9
+11,5,S3-27_percent,Florence Henderson,Florence Henderson,1.0,8
+11,6,S3-27_percent,Audrina Patridge,Audrina Patridge,1.0,7
+11,7,S3-27_percent,Rick Fox,Rick Fox,1.0,6
+11,8,S3-27_percent,Kurt Warner,Kurt Warner,1.0,5
+11,9,S3-27_percent,Brandy,Brandy,1.0,4
+11,10,S3-27_percent,,Bristol Palin,,3
+12,1,S3-27_percent,,Mike Catherwood,,11
+12,2,S3-27_percent,Mike Catherwood,Mike Catherwood,1.0,11
+12,3,S3-27_percent,Wendy Williams,Wendy Williams,1.0,10
+12,4,S3-27_percent,Sugar Ray Leonard,Sugar Ray Leonard,1.0,9
+12,5,S3-27_percent,Petra Nemcova,Petra Nemcova,1.0,8
+12,6,S3-27_percent,Chris Jericho,Chris Jericho,1.0,7
+12,7,S3-27_percent,Kendra Wilkinson,Kendra Wilkinson,1.0,6
+12,8,S3-27_percent,Romeo,Romeo,1.0,5
+12,9,S3-27_percent,Ralph Macchio,Ralph Macchio,1.0,4
+12,10,S3-27_percent,,Kirstie Alley,,3
+13,1,S3-27_percent,Metta World Peace (Ron),Metta World Peace (Ron),1.0,12
+13,2,S3-27_percent,Elisabetta Canalis,Elisabetta Canalis,1.0,11
+13,3,S3-27_percent,Kristin Cavallari,Kristin Cavallari,1.0,10
+13,4,S3-27_percent,Chynna Phillips,Chynna Phillips,1.0,9
+13,5,S3-27_percent,Carson Kressley,Carson Kressley,1.0,8
+13,6,S3-27_percent,Chaz Bono,Chaz Bono,1.0,7
+13,7,S3-27_percent,David Arquette,David Arquette,1.0,6
+13,8,S3-27_percent,Nancy Grace,Nancy Grace,1.0,5
+13,9,S3-27_percent,Hope Solo,Hope Solo,1.0,4
+13,10,S3-27_percent,,Ricki Lake,,3
+14,1,S3-27_percent,,Martina Navratilova,,12
+14,2,S3-27_percent,Martina Navratilova,Martina Navratilova,1.0,12
+14,3,S3-27_percent,Jack Wagner,Jack Wagner,1.0,11
+14,4,S3-27_percent,Sherri Sheperd,Sherri Sheperd,1.0,10
+14,5,S3-27_percent,Gavin DeGraw,Gavin DeGraw,1.0,9
+14,6,S3-27_percent,Gladys Knight,Gladys Knight,1.0,8
+14,7,S3-27_percent,Jaleel White,Jaleel White,1.0,7
+14,8,S3-27_percent,Roshon Fegan;Melissa Gilbert,Melissa Gilbert,1.0,6
+14,9,S3-27_percent,Maria Menounos,Maria Menounos,1.0,4
+14,10,S3-27_percent,,Donald Driver,,3
+15,1,S3-27_percent,Pamela Anderson,Pamela Anderson,1.0,13
+15,2,S3-27_percent,Joey Fatone,Joey Fatone,1.0,12
+15,3,S3-27_percent,Helio Castroneves;Drew Lachey,Drew Lachey,1.0,11
+15,4,S3-27_percent,Bristol Palin,Bristol Palin,1.0,9
+15,5,S3-27_percent,,Kirstie Alley,,8
+15,6,S3-27_percent,Sabrina Bryan,Gilles Marini,0.0,8
+15,7,S3-27_percent,,Kirstie Alley,,7
+15,8,S3-27_percent,Gilles Marini;Kirstie Alley,Kirstie Alley,1.0,7
+15,9,S3-27_percent,Apolo Anton Ohno;Emmitt Smith,Emmitt Smith,1.0,5
+15,10,S3-27_percent,,Shawn Johnson,,3
+16,1,S3-27_percent,,D. L. Hughley,,12
+16,2,S3-27_percent,Dorothy Hamill,Dorothy Hamill,1.0,12
+16,3,S3-27_percent,Wynonna Judd,Wynonna Judd,1.0,11
+16,4,S3-27_percent,Lisa Vanderpump,Lisa Vanderpump,1.0,10
+16,5,S3-27_percent,D. L. Hughley,D. L. Hughley,1.0,9
+16,6,S3-27_percent,Victor Ortiz,Victor Ortiz,1.0,8
+16,7,S3-27_percent,Andy Dick,Andy Dick,1.0,7
+16,8,S3-27_percent,Sean Lowe,Sean Lowe,1.0,6
+16,9,S3-27_percent,Ingo Rademacher,Ingo Rademacher,1.0,5
+16,10,S3-27_percent,Alexandra Raisman,Alexandra Raisman,1.0,4
+17,1,S3-27_percent,,Bill Nye,,12
+17,2,S3-27_percent,Keyshawn Johnson,Bill Nye,0.0,12
+17,3,S3-27_percent,Bill Nye,Bill Nye,1.0,11
+17,4,S3-27_percent,Valerie Harper,Valerie Harper,1.0,10
+17,5,S3-27_percent,Christina Milian,Christina Milian,1.0,9
+17,6,S3-27_percent,,Bill Engvall,,8
+17,7,S3-27_percent,"Nicole ""Snooki"" Polizzi","Nicole ""Snooki"" Polizzi",1.0,8
+17,8,S3-27_percent,Brant Daugherty,Brant Daugherty,1.0,7
+17,9,S3-27_percent,Elizabeth Berkley Lauren,Elizabeth Berkley Lauren,1.0,6
+17,10,S3-27_percent,Leah Remini,Leah Remini,1.0,5
+17,11,S3-27_percent,Bill Engvall,Bill Engvall,1.0,4
+18,1,S3-27_percent,Diana Nyad,Diana Nyad,1.0,12
+18,2,S3-27_percent,Sean Avery;Billy Dee Williams,Billy Dee Williams,1.0,11
+18,3,S3-27_percent,,Drew Carey,,9
+18,4,S3-27_percent,,Cody Simpson,,9
+18,5,S3-27_percent,Cody Simpson,Cody Simpson,1.0,9
+18,6,S3-27_percent,Drew Carey,Drew Carey,1.0,8
+18,7,S3-27_percent,NeNe Leakes,NeNe Leakes,1.0,7
+18,8,S3-27_percent,Danica McKellar,Danica McKellar,1.0,6
+18,9,S3-27_percent,Charlie White,Charlie White,1.0,5
+18,10,S3-27_percent,James Maslow,James Maslow,1.0,4
+19,1,S3-27_percent,Lolo Jones,Lolo Jones,1.0,13
+19,2,S3-27_percent,Tavis Smiley,Tavis Smiley,1.0,12
+19,3,S3-27_percent,Randy Couture,Randy Couture,1.0,11
+19,4,S3-27_percent,Betsey Johnson,Jonathan Bennett,0.0,10
+19,5,S3-27_percent,,Michael Waltrip,,9
+19,6,S3-27_percent,Jonathan Bennett,Jonathan Bennett,1.0,9
+19,7,S3-27_percent,Antonio Sabato Jr.,Antonio Sabato Jr.,1.0,8
+19,8,S3-27_percent,Michael Waltrip,Michael Waltrip,1.0,7
+19,9,S3-27_percent,Lea Thompson,Lea Thompson,1.0,6
+19,10,S3-27_percent,Tommy Chong,Tommy Chong,1.0,5
+19,11,S3-27_percent,Bethany Mota,Bethany Mota,1.0,4
+20,1,S3-27_percent,,Redfoo,,12
+20,2,S3-27_percent,Redfoo,Chris Soules,0.0,12
+20,3,S3-27_percent,Charlotte McKinney,Charlotte McKinney,1.0,11
+20,4,S3-27_percent,Michael Sam,Michael Sam,1.0,10
+20,5,S3-27_percent,Suzanne Somers,Suzanne Somers,1.0,9
+20,6,S3-27_percent,Patti LaBelle,Patti LaBelle,1.0,8
+20,7,S3-27_percent,Willow Shields,Chris Soules,0.0,7
+20,8,S3-27_percent,Chris Soules;Robert Herjavec,Robert Herjavec,1.0,6
+20,9,S3-27_percent,Nastia Liukin,Nastia Liukin,1.0,4
+20,10,S3-27_percent,,Noah Galloway,,3
+21,1,S3-27_percent,,Kim Zolciak-Biermann,,13
+21,2,S3-27_percent,Kim Zolciak-Biermann;Victor Espinoza;Chaka Khan,Chaka Khan,1.0,13
+21,3,S3-27_percent,,Paula Deen,,10
+21,4,S3-27_percent,Gary Busey,Gary Busey,1.0,10
+21,5,S3-27_percent,,Paula Deen,,9
+21,6,S3-27_percent,Paula Deen,Paula Deen,1.0,9
+21,7,S3-27_percent,Hayes Grier,Hayes Grier,1.0,8
+21,8,S3-27_percent,Andy Grammer,Andy Grammer,1.0,7
+21,9,S3-27_percent,Alexa PenaVega;Tamar Braxton,Tamar Braxton,1.0,6
+21,10,S3-27_percent,,Nick Carter,,4
+21,11,S3-27_percent,Carlos PenaVega,Carlos PenaVega,1.0,4
+22,1,S3-27_percent,,Geraldo Rivera,,12
+22,2,S3-27_percent,Geraldo Rivera,Geraldo Rivera,1.0,12
+22,3,S3-27_percent,Mischa Barton,Mischa Barton,1.0,11
+22,4,S3-27_percent,Marla Maples,Marla Maples,1.0,10
+22,5,S3-27_percent,,Antonio Brown,,9
+22,6,S3-27_percent,Doug Flutie,Doug Flutie,1.0,9
+22,7,S3-27_percent,Kim Fields;Von Miller,Kim Fields,1.0,8
+22,8,S3-27_percent,Jodie Sweetin,Wanya Morris,0.0,6
+22,9,S3-27_percent,Wanya Morris;Antonio Brown,Antonio Brown,1.0,5
+22,10,S3-27_percent,,Ginger Zee,,3
+23,1,S3-27_percent,,Rick Perry,,13
+23,2,S3-27_percent,Jake T. Austin,Jake T. Austin,1.0,13
+23,3,S3-27_percent,Rick Perry,Rick Perry,1.0,12
+23,4,S3-27_percent,Vanilla Ice;Babyface,Babyface,1.0,11
+23,5,S3-27_percent,,Amber Rose,,9
+23,6,S3-27_percent,Amber Rose,Amber Rose,1.0,9
+23,7,S3-27_percent,Maureen McCormick,Maureen McCormick,1.0,8
+23,8,S3-27_percent,Ryan Lochte,Ryan Lochte,1.0,7
+23,9,S3-27_percent,Marilu Henner,Marilu Henner,1.0,6
+23,10,S3-27_percent,Terra Jole,Terra Jole,1.0,5
+23,11,S3-27_percent,Jana Kramer,Jana Kramer,1.0,4
+24,1,S3-27_percent,,Chris Kattan,,12
+24,2,S3-27_percent,Chris Kattan,Chris Kattan,1.0,12
+24,3,S3-27_percent,Charo,Charo,1.0,11
+24,4,S3-27_percent,Mr. T,Mr. T,1.0,10
+24,5,S3-27_percent,Erika Jayne,Erika Jayne,1.0,9
+24,6,S3-27_percent,Heather Morris,Heather Morris,1.0,8
+24,7,S3-27_percent,Nancy Kerrigan;Nick Viall,Nancy Kerrigan,1.0,7
+24,8,S3-27_percent,Bonner Bolton,Bonner Bolton,1.0,5
+24,9,S3-27_percent,Simone Biles,Simone Biles,1.0,4
+24,10,S3-27_percent,,David Ross,,3
+25,1,S3-27_percent,,Barbara Corcoran,,13
+25,2,S3-27_percent,Debbie Gibson;Barbara Corcoran,Barbara Corcoran,1.0,13
+25,3,S3-27_percent,,Sasha Pieterse,,11
+25,4,S3-27_percent,Derek Fisher,Derek Fisher,1.0,11
+25,5,S3-27_percent,Sasha Pieterse,Sasha Pieterse,1.0,10
+25,6,S3-27_percent,Nick Lachey,Nick Lachey,1.0,9
+25,7,S3-27_percent,Vanessa Lachey;Nikki Bella,Nikki Bella,1.0,8
+25,8,S3-27_percent,Terrell Owens,Terrell Owens,1.0,6
+25,9,S3-27_percent,Victoria Arlen,Victoria Arlen,1.0,5
+25,10,S3-27_percent,Drew Scott,Drew Scott,1.0,4
+26,1,S3-27_percent,Jamie Anderson;Johnny Damon,Johnny Damon,1.0,10
+26,2,S3-27_percent,Arike Ogunbowale;Kareem Abdul-Jabbar,Kareem Abdul-Jabbar,1.0,8
+26,3,S3-27_percent,Mirai Nagasu;Chris Mazdzer;Jennie Finch Daigle,Jennie Finch Daigle,1.0,6
+26,4,S3-27_percent,,Tonya Harding,,3
+27,1,S3-27_percent,Nikki Glaser,Joe Amabile,0.0,13
+27,2,S3-27_percent,Danelle Umstead,Danelle Umstead,1.0,12
+27,3,S3-27_percent,Nancy McKeon,Nancy McKeon,1.0,11
+27,4,S3-27_percent,Tinashe,Tinashe,1.0,10
+27,5,S3-27_percent,,Joe Amabile,,9
+27,6,S3-27_percent,Mary Lou Retton,Mary Lou Retton,1.0,9
+27,7,S3-27_percent,John Schneider;DeMarcus Ware,DeMarcus Ware,1.0,8
+27,8,S3-27_percent,Juan Pablo Di Pace;Joe Amabile,Joe Amabile,1.0,6
+27,9,S3-27_percent,,Bobby Bones,,4
+28,1,S28+_bottom2,,Ray Lewis,,12
+28,2,S28+_bottom2,Mary Wilson;Ray Lewis,Ray Lewis,1.0,12
+28,3,S28+_bottom2,,Lamar Odom,,10
+28,4,S28+_bottom2,Lamar Odom,Lamar Odom,1.0,10
+28,5,S28+_bottom2,,Sailor Brinkley-Cook,,9
+28,6,S28+_bottom2,Sailor Brinkley-Cook,Lauren Alaina,0.0,9
+28,7,S28+_bottom2,Karamo Brown,Karamo Brown,1.0,8
+28,8,S28+_bottom2,Kate Flannery,Lauren Alaina,0.0,7
+28,9,S28+_bottom2,Sean Spicer,Sean Spicer,1.0,6
+28,10,S28+_bottom2,James Van Der Beek,James Van Der Beek,1.0,5
+28,11,S28+_bottom2,,Lauren Alaina,,4
+29,1,S28+_bottom2,,Carole Baskin,,15
+29,2,S28+_bottom2,Charles Oakley,Charles Oakley,1.0,15
+29,3,S28+_bottom2,Carole Baskin,Carole Baskin,1.0,14
+29,4,S28+_bottom2,Anne Heche,Anne Heche,1.0,13
+29,5,S28+_bottom2,Jesse Metcalfe,Jesse Metcalfe,1.0,12
+29,6,S28+_bottom2,Veron Davis,Veron Davis,1.0,11
+29,7,S28+_bottom2,Jeannie Mai;Monica Aldama,Monica Aldama,1.0,10
+29,8,S28+_bottom2,Chrishell Stause,Skai Jackson,0.0,8
+29,9,S28+_bottom2,AJ McLean,AJ McLean,1.0,7
+29,10,S28+_bottom2,Johnny Weir;Skai Jackson,Johnny Weir,1.0,6
+29,11,S28+_bottom2,,Nelly,,4
+30,1,S28+_bottom2,,Iman Shumpert,,15
+30,2,S28+_bottom2,Martin Kove,Martin Kove,1.0,15
+30,3,S28+_bottom2,Christine Chiu,Christine Chiu,1.0,14
+30,4,S28+_bottom2,Matt James;Brian Austin Green,Cody Rigsby,0.0,13
+30,5,S28+_bottom2,Melanie C,Melanie C,1.0,11
+30,6,S28+_bottom2,Kenya Moore,"Mike ""The Miz"" Mizanin",0.0,10
+30,7,S28+_bottom2,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",1.0,9
+30,8,S28+_bottom2,Olivia Jade;Jimmie Allen,Jimmie Allen,1.0,8
+30,9,S28+_bottom2,Suni Lee;Melora Hardin,Melora Hardin,1.0,6
+30,10,S28+_bottom2,,Cody Rigsby,,4
+31,1,S28+_bottom2,Jason Lewis,Jason Lewis,1.0,16
+31,2,S28+_bottom2,Teresa Giudice,Teresa Giudice,1.0,15
+31,3,S28+_bottom2,Cheryl Ladd,Jessie James Decker,0.0,14
+31,4,S28+_bottom2,Sam Champion,Sam Champion,1.0,13
+31,5,S28+_bottom2,Selma Blair;Joseph Baena,Joseph Baena,1.0,12
+31,6,S28+_bottom2,Jessie James Decker,Jessie James Decker,1.0,10
+31,7,S28+_bottom2,Jordin Sparks,Jordin Sparks,1.0,9
+31,8,S28+_bottom2,Heidi D'Amelio;Vinny Guadagnino,Vinny Guadagnino,1.0,8
+31,9,S28+_bottom2,Daniel Durant;Trevor Donovan,Trevor Donovan,1.0,6
+31,10,S28+_bottom2,,Shangela,,4
+32,1,S28+_bottom2,Matt Walsh,Matt Walsh,1.0,14
+32,2,S28+_bottom2,Jamie Lynn Spears,Adrian Peterson,0.0,13
+32,3,S28+_bottom2,Tyson Beckford,Tyson Beckford,1.0,12
+32,4,S28+_bottom2,Adrian Peterson,Adrian Peterson,1.0,11
+32,5,S28+_bottom2,Mira Sorvino,Mira Sorvino,1.0,10
+32,6,S28+_bottom2,Mauricio Umansky,Mauricio Umansky,1.0,9
+32,7,S28+_bottom2,Lele Pons,Charity Lawson,0.0,8
+32,8,S28+_bottom2,Barry Williams,Barry Williams,1.0,7
+32,9,S28+_bottom2,Harry Jowsey,Ariana Madix,0.0,6
+32,10,S28+_bottom2,,Alyson Hannigan,,5
+32,11,S28+_bottom2,,Alyson Hannigan,,5
+33,1,S28+_bottom2,,Tori Spelling,,13
+33,2,S28+_bottom2,Tori Spelling;Anna Delvey,Anna Delvey,1.0,13
+33,3,S28+_bottom2,Eric Roberts;Reginald VelJohnson,Reginald VelJohnson,1.0,11
+33,4,S28+_bottom2,Brooks Nader,Brooks Nader,1.0,9
+33,5,S28+_bottom2,Phaedra Parks,Phaedra Parks,1.0,8
+33,6,S28+_bottom2,Jenn Tran,Stephen Nedoroscik,0.0,7
+33,7,S28+_bottom2,Dwight Howard ,Dwight Howard ,1.0,6
+33,8,S28+_bottom2,,Stephen Nedoroscik,,5
+33,9,S28+_bottom2,,Danny Amendola,,5
+34,1,S28+_bottom2,,Corey Feldman,,14
+34,2,S28+_bottom2,Baron Davis;Corey Feldman,Corey Feldman,1.0,14
+34,3,S28+_bottom2,Lauren Jauregui,Lauren Jauregui,1.0,12
+34,4,S28+_bottom2,Hilaria Baldwin,Robert Irwin,0.0,11
+34,5,S28+_bottom2,,Jen Affleck,,10
+34,6,S28+_bottom2,Scott Hoying,Scott Hoying,1.0,10
+34,7,S28+_bottom2,Jen Affleck,Jen Affleck,1.0,9
+34,8,S28+_bottom2,Danielle Fishel,Danielle Fishel,1.0,8
+34,9,S28+_bottom2,Andy Richter,Andy Richter,1.0,7
+34,10,S28+_bottom2,Whitney Leavitt,Elaine Hendrix,0.0,6
+34,11,S28+_bottom2,,Elaine Hendrix,,5
