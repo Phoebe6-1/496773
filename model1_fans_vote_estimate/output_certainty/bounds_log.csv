@@ -1,0 +1,35 @@
+season,rule_type,warmstart_used,warmstart_success,warmstart_message,warmstart_objective,n_rows,min_fail_cnt,max_fail_cnt
+1,S1-2_rank,1,1,Optimization terminated successfully,-7.606271260979817,26,0,0
+2,S1-2_rank,1,1,Optimization terminated successfully,-14.035395509479041,52,0,0
+3,S3-27_percent,0,1,,,64,0,0
+4,S3-27_percent,0,1,,,74,0,0
+5,S3-27_percent,0,1,,,75,0,0
+6,S3-27_percent,0,1,,,76,0,0
+7,S3-27_percent,0,1,,,75,0,0
+8,S3-27_percent,0,1,,,91,0,0
+9,S3-27_percent,0,1,,,92,0,0
+10,S3-27_percent,0,1,,,74,0,0
+11,S3-27_percent,0,1,,,75,0,0
+12,S3-27_percent,0,1,,,74,0,0
+13,S3-27_percent,0,1,,,75,0,0
+14,S3-27_percent,0,1,,,82,0,0
+15,S3-27_percent,0,1,,,83,0,0
+16,S3-27_percent,0,1,,,84,0,0
+17,S3-27_percent,0,1,,,92,0,0
+18,S3-27_percent,0,1,,,80,0,0
+19,S3-27_percent,0,1,,,94,0,0
+20,S3-27_percent,0,1,,,82,0,0
+21,S3-27_percent,0,1,,,93,0,0
+22,S3-27_percent,0,1,,,85,0,0
+23,S3-27_percent,0,1,,,97,0,0
+24,S3-27_percent,0,1,,,81,0,0
+25,S3-27_percent,0,1,,,90,0,0
+26,S3-27_percent,0,1,,,27,0,0
+27,S3-27_percent,0,1,,,82,0,0
+28,S28+_bottom2,1,0,More than 3*n iterations in LSQ subproblem,-21.945377307290176,92,9,9
+29,S28+_bottom2,1,1,Optimization terminated successfully,-24.675919481060458,115,0,0
+30,S28+_bottom2,1,0,More than 3*n iterations in LSQ subproblem,57.19796312976419,105,11,11
+31,S28+_bottom2,1,0,Positive directional derivative for linesearch,-22.209533113159463,107,0,0
+32,S28+_bottom2,1,1,Optimization terminated successfully,-23.196420322953987,100,0,0
+33,S28+_bottom2,1,1,Optimization terminated successfully,-18.402464093259205,77,0,0
+34,S28+_bottom2,1,1,Optimization terminated successfully,-23.984907000404334,106,0,0

@@ -1,0 +1,35 @@
+season,rule_type,rows,n_vars,x0_source,baseline_mode,baseline_success,baseline_message,baseline_objective,baseline_time_sec,min_success_cnt,max_success_cnt,extreme_time_sec,tiny_reg,tau_rank,lambda_smooth,polish_maxiter,ext_maxiter,ext_ftol,error
+1,S1-2_rank,26,26,feasible_csv,polish,True,Optimization terminated successfully,-7.6062712609798355,0.011071205139160156,26.0,26.0,2.718613862991333,1e-08,0.05,10.0,400.0,600.0,1e-07,
+2,S1-2_rank,52,52,feasible_csv,polish,True,Optimization terminated successfully,-14.035395509479093,0.1275646686553955,52.0,52.0,32.460608959198,1e-08,0.05,10.0,400.0,600.0,1e-07,
+3,S3-27_percent,64,64,feasible_csv,polish,True,Optimization terminated successfully,-16.578822731994546,0.02218770980834961,64.0,64.0,5.392884254455566,1e-08,0.05,10.0,400.0,600.0,1e-07,
+4,S3-27_percent,74,74,feasible_csv,polish,True,Optimization terminated successfully,-18.85074842901918,0.020200729370117188,74.0,74.0,7.447404861450195,1e-08,0.05,10.0,400.0,600.0,1e-07,
+5,S3-27_percent,75,75,feasible_csv,polish,True,Optimization terminated successfully,-18.933798834160108,0.03036189079284668,75.0,75.0,8.181232452392578,1e-08,0.05,10.0,400.0,600.0,1e-07,
+6,S3-27_percent,76,76,feasible_csv,polish,True,Optimization terminated successfully,-19.013141429854528,0.026113510131835938,76.0,76.0,8.478602409362793,1e-08,0.05,10.0,400.0,600.0,1e-07,
+7,S3-27_percent,75,75,feasible_csv,polish,True,Optimization terminated successfully,-18.885517537231003,0.025963306427001953,75.0,75.0,9.34399151802063,1e-08,0.05,10.0,400.0,600.0,1e-07,
+8,S3-27_percent,91,91,feasible_csv,polish,True,Optimization terminated successfully,-21.73929469545093,0.032723188400268555,91.0,91.0,13.729759216308594,1e-08,0.05,10.0,400.0,600.0,1e-07,
+9,S3-27_percent,92,92,feasible_csv,polish,True,Optimization terminated successfully,-20.45754260173282,0.04468250274658203,92.0,92.0,19.85991144180298,1e-08,0.05,10.0,400.0,600.0,1e-07,
+10,S3-27_percent,74,74,feasible_csv,polish,True,Optimization terminated successfully,-18.84944940781026,0.022107362747192383,74.0,74.0,6.890603542327881,1e-08,0.05,10.0,400.0,600.0,1e-07,
+11,S3-27_percent,75,75,feasible_csv,polish,True,Optimization terminated successfully,-18.929851420098277,0.024822473526000977,75.0,75.0,8.660159587860107,1e-08,0.05,10.0,400.0,600.0,1e-07,
+12,S3-27_percent,74,74,feasible_csv,polish,True,Optimization terminated successfully,-18.85486645992362,0.02134084701538086,74.0,74.0,7.316850423812866,1e-08,0.05,10.0,400.0,600.0,1e-07,
+13,S3-27_percent,75,75,feasible_csv,polish,True,Optimization terminated successfully,-18.934911195092045,0.02690410614013672,75.0,75.0,8.39370059967041,1e-08,0.05,10.0,400.0,600.0,1e-07,
+14,S3-27_percent,82,82,feasible_csv,polish,True,Optimization terminated successfully,-19.7393044826156,0.032610416412353516,82.0,82.0,9.866037130355835,1e-08,0.05,10.0,400.0,600.0,1e-07,
+15,S3-27_percent,83,83,feasible_csv,polish,True,Optimization terminated successfully,-19.866781889267486,0.027822494506835938,83.0,83.0,11.772855997085571,1e-08,0.05,10.0,400.0,600.0,1e-07,
+16,S3-27_percent,84,84,feasible_csv,polish,True,Optimization terminated successfully,-20.470805490873676,0.027586698532104492,84.0,84.0,10.594172477722168,1e-08,0.05,10.0,400.0,600.0,1e-07,
+17,S3-27_percent,92,92,feasible_csv,polish,True,Optimization terminated successfully,-22.549451974746983,0.02887272834777832,92.0,92.0,12.99339509010315,1e-08,0.05,10.0,400.0,600.0,1e-07,
+18,S3-27_percent,80,80,feasible_csv,polish,True,Optimization terminated successfully,-20.061587400496567,0.030103206634521484,80.0,80.0,9.525970458984375,1e-08,0.05,10.0,400.0,600.0,1e-07,
+19,S3-27_percent,94,94,feasible_csv,polish,True,Optimization terminated successfully,-22.740527588307163,0.034876346588134766,94.0,94.0,15.376726150512695,1e-08,0.05,10.0,400.0,600.0,1e-07,
+20,S3-27_percent,82,82,feasible_csv,polish,True,Optimization terminated successfully,-19.728664585367437,0.03129291534423828,82.0,82.0,9.713526487350464,1e-08,0.05,10.0,400.0,600.0,1e-07,
+21,S3-27_percent,93,93,feasible_csv,polish,True,Optimization terminated successfully,-22.408076370085663,0.03468060493469238,93.0,93.0,14.051181316375732,1e-08,0.05,10.0,400.0,600.0,1e-07,
+22,S3-27_percent,85,85,feasible_csv,polish,True,Optimization terminated successfully,-20.13347323659343,0.026784896850585938,85.0,85.0,10.57388424873352,1e-08,0.05,10.0,400.0,600.0,1e-07,
+23,S3-27_percent,97,97,feasible_csv,polish,True,Optimization terminated successfully,-22.99193508879501,0.03566598892211914,97.0,97.0,15.939572095870972,1e-08,0.05,10.0,400.0,600.0,1e-07,
+24,S3-27_percent,81,81,feasible_csv,polish,True,Optimization terminated successfully,-19.57760775445561,0.026662588119506836,81.0,81.0,9.528433799743652,1e-08,0.05,10.0,400.0,600.0,1e-07,
+25,S3-27_percent,90,90,feasible_csv,polish,True,Optimization terminated successfully,-21.036660828617677,0.03921961784362793,90.0,90.0,12.573348045349121,1e-08,0.05,10.0,400.0,600.0,1e-07,
+26,S3-27_percent,27,27,feasible_csv,polish,True,Optimization terminated successfully,-6.66692361503781,0.006037235260009766,27.0,27.0,0.7702999114990234,1e-08,0.05,10.0,400.0,600.0,1e-07,
+27,S3-27_percent,82,82,feasible_csv,polish,True,Optimization terminated successfully,-19.070190551983437,0.02590799331665039,82.0,82.0,10.587913274765015,1e-08,0.05,10.0,400.0,600.0,1e-07,
+28,S28+_bottom2,92,92,,,False,,,,,,,,,,,,,"[season 28 | S28+_bottom2] Cannot find feasible baseline. mode=failed, message=More than 3*n iterations in LSQ subproblem"
+29,S28+_bottom2,115,115,feasible_csv,baseline_uniform,True,Optimization terminated successfully,-24.607244840726445,41.846404790878296,115.0,115.0,122.61892700195312,1e-08,0.05,10.0,400.0,600.0,1e-07,
+30,S28+_bottom2,105,105,,,False,,,,,,,,,,,,,"[season 30 | S28+_bottom2] Cannot find feasible baseline. mode=failed, message=More than 3*n iterations in LSQ subproblem"
+31,S28+_bottom2,107,107,,,False,,,,,,,,,,,,,"[season 31 | S28+_bottom2] Cannot find feasible baseline. mode=failed, message=More than 3*n iterations in LSQ subproblem"
+32,S28+_bottom2,100,100,,,False,,,,,,,,,,,,,"[season 32 | S28+_bottom2] Cannot find feasible baseline. mode=failed, message=More than 3*n iterations in LSQ subproblem"
+33,S28+_bottom2,77,77,feasible_csv,polish,True,Optimization terminated successfully,-18.278967381264174,4.650829076766968,77.0,77.0,86.55597257614136,1e-08,0.05,10.0,400.0,600.0,1e-07,
+34,S28+_bottom2,106,106,,,False,,,,,,,,,,,,,"[season 34 | S28+_bottom2] Cannot find feasible baseline. mode=failed, message=More than 3*n iterations in LSQ subproblem"

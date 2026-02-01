@@ -1,0 +1,25 @@
+season,celebrity_name,tag,method,use_bottom2,official_tag,is_official,R_origin,placement_sim,eliminated_week_sim,deltaR,MS_all,MS_alt
+2,Jerry Rice,percent,percent,False,rank,False,2,3,8,1.0,0.9574271077563381,0.5773502691896258
+2,Jerry Rice,percent_bottom2,percent,True,rank,False,2,4,7,2.0,0.9574271077563381,0.5773502691896258
+2,Jerry Rice,rank,rank,False,rank,True,2,2,8,,0.9574271077563381,0.5773502691896258
+2,Jerry Rice,rank_bottom2,rank,True,rank,False,2,4,7,2.0,0.9574271077563381,0.5773502691896258
+4,Billy Ray Cyrus,percent,percent,False,percent,True,5,5,8,,1.4142135623730951,1.5275252316519465
+4,Billy Ray Cyrus,percent_bottom2,percent,True,percent,False,5,8,5,3.0,1.4142135623730951,1.5275252316519465
+4,Billy Ray Cyrus,rank,rank,False,percent,False,5,5,8,0.0,1.4142135623730951,1.5275252316519465
+4,Billy Ray Cyrus,rank_bottom2,rank,True,percent,False,5,6,7,1.0,1.4142135623730951,1.5275252316519465
+11,Bristol Palin,percent,percent,False,percent,True,3,3,10,,0.9574271077563381,1.1547005383792515
+11,Bristol Palin,percent_bottom2,percent,True,percent,False,3,4,9,1.0,0.9574271077563381,1.1547005383792515
+11,Bristol Palin,rank,rank,False,percent,False,3,2,10,1.0,0.9574271077563381,1.1547005383792515
+11,Bristol Palin,rank_bottom2,rank,True,percent,False,3,2,10,1.0,0.9574271077563381,1.1547005383792515
+17,Bill Engvall,percent,percent,False,percent,True,4,4,11,,1.9148542155126762,2.3094010767585034
+17,Bill Engvall,percent_bottom2,percent,True,percent,False,4,6,9,2.0,1.9148542155126762,2.3094010767585034
+17,Bill Engvall,rank,rank,False,percent,False,4,2,11,2.0,1.9148542155126762,2.3094010767585034
+17,Bill Engvall,rank_bottom2,rank,True,percent,False,4,2,11,2.0,1.9148542155126762,2.3094010767585034
+27,Bobby Bones,percent,percent,False,percent,True,1,4,9,,0.5773502691896257,0.5773502691896257
+27,Bobby Bones,percent_bottom2,percent,True,percent,False,1,5,8,4.0,0.5773502691896257,0.5773502691896257
+27,Bobby Bones,rank,rank,False,percent,False,1,4,9,3.0,0.5773502691896257,0.5773502691896257
+27,Bobby Bones,rank_bottom2,rank,True,percent,False,1,5,8,4.0,0.5773502691896257,0.5773502691896257
+29,Nelly,percent,percent,False,percent_bottom2,False,3,4,11,1.0,0.816496580927726,1.0
+29,Nelly,percent_bottom2,percent,True,percent_bottom2,True,3,4,11,,0.816496580927726,1.0
+29,Nelly,rank,rank,False,percent_bottom2,False,3,3,11,0.0,0.816496580927726,1.0
+29,Nelly,rank_bottom2,rank,True,percent_bottom2,False,3,5,10,2.0,0.816496580927726,1.0
